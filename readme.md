@@ -86,10 +86,6 @@ here "port number of new node" is the port at which the node will listen for req
 
 The client is menu driven where we need to provide inputs like the port number of the node which the client wants to connect to and then the option according to the task the client wants to perform like insert, search, delete etc.
 
-### test.sh:
 
-*UsageL* `bash test.sh`
-The test.sh script is used to test the working of the code 
-The script spawns 3 different nodes and performs insert and search operations on those nodes.
 
-Link to video for Chord explanation and code run : https://youtu.be/2rNEjQCpFCo
+Link to video for Chord explanation and code run : 

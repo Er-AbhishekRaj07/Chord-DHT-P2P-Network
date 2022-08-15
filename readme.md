@@ -13,7 +13,7 @@ There are two types of peer pointers
 1. Successor - Predecessor
 2. Finger table
 
-![Successor-Predecessor](flowImages/successor_pred.png)
+![Successor-Predecessor](Flowchart Images/successor_pred.png)
 
 
 
